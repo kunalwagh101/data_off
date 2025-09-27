@@ -1,6 +1,6 @@
-# Offset — Carbon Credit Ledger (FastAPI Prototype)
+# Offset — Carbon Credit Ledger (FastAPI)
 
-A friendly, copy-pasteable README to get this prototype running locally, test the API, run automated tests, and (optionally) run it with Docker + Postgres.
+
 
 ---
 
