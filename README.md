@@ -24,7 +24,7 @@ python -m venv .venv
 .\.venv\Scripts\Activate.ps1
 ```
 
----using the vscode how can i setup the github andupload this projec to the github
+
 
 ## 2) Install Python dependencies
 
