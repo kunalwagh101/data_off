@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+*.manifest
+*.spec
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv/
+
+# IDE / Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Byte-compiled / Logs
+*.log
+*.pot
+*.mo
+*.pyc
+*.pkl
+*.tmp
+*.bak
+
+# Test / Coverage
+.coverage
+coverage.xml
+htmlcov/
+.pytest_cache/
+.tox/
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# SQLite DB
+*.db
+*.sqlite3
+
+# Local data
+sample-registry.json
+offset.db
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Uvicorn reload artifacts
+*.pid
